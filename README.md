@@ -1,6 +1,9 @@
+
 # ADC-LED
+
+## Aim
 Analyse the ADC register range by keeping the LED at full brightness for the first half of the register values and completely OFF for the remaining half. Verify the switching behaviour at the midpoint. 
----
+
 
 ## Apparatus Required
 
